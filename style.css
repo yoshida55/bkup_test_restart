@@ -1,0 +1,10 @@
+/* 家で作成したスタイル */
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  color: navy;
+}
